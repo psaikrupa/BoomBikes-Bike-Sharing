@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-* [Problem Statement](#general-information)
-* [Business Goal](#technologies-used)
+* [Problem Statement](#problem-statement)
+* [Business Goal](#business-goal)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 

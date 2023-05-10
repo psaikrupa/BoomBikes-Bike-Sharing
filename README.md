@@ -1,6 +1,4 @@
 # Linear Regression Programming Assignment - Bike Sharing System
-> Outline a brief description of your project.
-
 
 ## Table of Contents
 * [Problem Statement](#problem-statement)
